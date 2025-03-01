@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\obj\Debug\odev2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ASUS\OneDrive\Desktop\odev2\odev2\obj\Debug\odev2.pdb
