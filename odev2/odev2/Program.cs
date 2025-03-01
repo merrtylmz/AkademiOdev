@@ -71,7 +71,13 @@ namespace odev2
 
 
 
-
+//Soru4--------
+/*Dizi(dizi), aynı veri türünden çok sayıda değişken anlamına gelir. Diziye ait değişkenler, sıra numarası verilmiş bir liste gibidir. Bu listeye ait olan ilerlemelere de sıra numarasıyla erişilir.
+Array'ler üç başlık altında incelenebilir.
+1.Tek Boyutlu Arrayler: “Vektör” olarak sunulan ve tek satırdan oluşan dizi sistemidir.
+2.İki Boyutlu Arrayler: “Matris” olarak sunulan ve satır-sütun ilişkisi bulunan dizi sistemidir.
+3.Çok Boyutlu Arrayler: Üç veya daha fazla boyutlu arrayler.
+*/
 
             Console.ReadKey();
         }
