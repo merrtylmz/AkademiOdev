@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\bin\Debug\ödev-3.exe.config
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\bin\Debug\ödev-3.exe
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\bin\Debug\ödev-3.pdb
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\obj\Debug\ödev-3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\obj\Debug\ödev-3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\obj\Debug\ödev-3.exe
+C:\Users\ASUS\OneDrive\Desktop\ödev-3\ödev-3\obj\Debug\ödev-3.pdb
