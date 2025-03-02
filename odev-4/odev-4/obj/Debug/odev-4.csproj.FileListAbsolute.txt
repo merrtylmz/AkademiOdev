@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\obj\Debug\odev-4.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\obj\Debug\odev-4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\bin\Debug\odev-4.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\bin\Debug\odev-4.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\bin\Debug\odev-4.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\obj\Debug\odev-4.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-4\odev-4\obj\Debug\odev-4.pdb
