@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\bin\Debug\odev-BasitHesapMakinesi.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\bin\Debug\odev-BasitHesapMakinesi.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\bin\Debug\odev-BasitHesapMakinesi.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\obj\Debug\odev-BasitHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\obj\Debug\odev-BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\obj\Debug\odev-BasitHesapMakinesi.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-BasitHesapMakinesi\odev-BasitHesapMakinesi\obj\Debug\odev-BasitHesapMakinesi.pdb
