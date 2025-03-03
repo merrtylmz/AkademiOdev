@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\bin\Debug\ODEV-5.exe.config
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\bin\Debug\ODEV-5.exe
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\bin\Debug\ODEV-5.pdb
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\obj\Debug\ODEV-5.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\obj\Debug\ODEV-5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\obj\Debug\ODEV-5.exe
+C:\Users\ASUS\OneDrive\Desktop\ODEV-5\ODEV-5\obj\Debug\ODEV-5.pdb
