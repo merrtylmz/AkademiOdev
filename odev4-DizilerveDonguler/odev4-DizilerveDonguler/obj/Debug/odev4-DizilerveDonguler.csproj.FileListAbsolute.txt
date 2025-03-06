@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\bin\Debug\odev4-DizilerveDonguler.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\bin\Debug\odev4-DizilerveDonguler.exe
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\bin\Debug\odev4-DizilerveDonguler.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\obj\Debug\odev4-DizilerveDonguler.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\obj\Debug\odev4-DizilerveDonguler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\obj\Debug\odev4-DizilerveDonguler.exe
+C:\Users\ASUS\OneDrive\Desktop\odev4-DizilerveDonguler\odev4-DizilerveDonguler\obj\Debug\odev4-DizilerveDonguler.pdb
