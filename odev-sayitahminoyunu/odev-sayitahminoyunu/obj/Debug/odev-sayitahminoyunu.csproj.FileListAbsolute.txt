@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\bin\Debug\odev-sayitahminoyunu.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\bin\Debug\odev-sayitahminoyunu.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\bin\Debug\odev-sayitahminoyunu.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\obj\Debug\odev-sayitahminoyunu.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\obj\Debug\odev-sayitahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\obj\Debug\odev-sayitahminoyunu.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-sayitahminoyunu\odev-sayitahminoyunu\obj\Debug\odev-sayitahminoyunu.pdb
