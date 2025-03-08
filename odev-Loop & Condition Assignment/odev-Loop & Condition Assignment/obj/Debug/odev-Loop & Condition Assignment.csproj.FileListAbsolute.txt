@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\bin\Debug\odev-Loop & Condition Assignment.exe.config
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\bin\Debug\odev-Loop & Condition Assignment.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\bin\Debug\odev-Loop & Condition Assignment.pdb
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\obj\Debug\odev-Loop & Condition Assignment.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\obj\Debug\odev-Loop & Condition Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\obj\Debug\odev-Loop & Condition Assignment.exe
+C:\Users\ASUS\OneDrive\Desktop\odev-Loop & Condition Assignment\odev-Loop & Condition Assignment\obj\Debug\odev-Loop & Condition Assignment.pdb
