@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic List ve Nesne Kullanımı Ödevi - PRS", "Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS.csproj", "{0795E108-FC31-40D8-8E23-F86989B7CAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0795E108-FC31-40D8-8E23-F86989B7CAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0795E108-FC31-40D8-8E23-F86989B7CAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0795E108-FC31-40D8-8E23-F86989B7CAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0795E108-FC31-40D8-8E23-F86989B7CAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4A7CF4-1904-4C99-92EB-134E88A483F7}
+	EndGlobalSection
+EndGlobal

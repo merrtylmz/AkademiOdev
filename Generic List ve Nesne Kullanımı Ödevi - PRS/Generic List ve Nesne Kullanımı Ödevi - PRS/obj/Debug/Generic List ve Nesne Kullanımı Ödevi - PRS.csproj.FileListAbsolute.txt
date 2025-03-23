@@ -1,0 +1,7 @@
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.exe.config
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.exe
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.pdb
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.csproj.AssemblyReference.cache
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.csproj.CoreCompileInputs.cache
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.exe
+C:\Users\merty\OneDrive\Desktop\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\Generic List ve Nesne Kullanımı Ödevi - PRS.pdb
