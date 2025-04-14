@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Windows Form Uygulaması ile Araba Bilgi Formu - PRS/1.0.0": {
+        "runtime": {
+          "Windows Form Uygulaması ile Araba Bilgi Formu - PRS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows Form Uygulaması ile Araba Bilgi Formu - PRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
