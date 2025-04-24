@@ -1,0 +1,16 @@
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\bin\Debug\net9.0-windows\REFLECTION-PRS.exe
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\bin\Debug\net9.0-windows\REFLECTION-PRS.deps.json
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\bin\Debug\net9.0-windows\REFLECTION-PRS.runtimeconfig.json
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\bin\Debug\net9.0-windows\REFLECTION-PRS.dll
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\bin\Debug\net9.0-windows\REFLECTION-PRS.pdb
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION_PRS.Form1.resources
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.csproj.GenerateResource.cache
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.AssemblyInfoInputs.cache
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.AssemblyInfo.cs
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.csproj.CoreCompileInputs.cache
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.dll
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\refint\REFLECTION-PRS.dll
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.pdb
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\REFLECTION-PRS.genruntimeconfig.cache
+C:\Users\merty\OneDrive\Desktop\REFLECTION-PRS\REFLECTION-PRS\obj\Debug\net9.0-windows\ref\REFLECTION-PRS.dll
